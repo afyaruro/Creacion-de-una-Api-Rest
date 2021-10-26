@@ -1,0 +1,12 @@
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\andres\OneDrive\Escritorio\Parcial\Entidades\obj\Debug\net5.0\Entidades.pdb
